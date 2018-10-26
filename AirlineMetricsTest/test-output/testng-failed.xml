@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test Revenue Metrics(failed)">
+    <groups>
+      <run>
+        <exclude name="setFiltersButtonCheckBoxes"/>
+        <exclude name="origin"/>
+        <exclude name="destination"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="modulesTab.TicketedRevenueMetricsCurrentYearVsLastYear">
+        <methods>
+          <include name="clickCurrentYearVsLastYearTab"/>
+          <include name="endOfTestingCurrentYearVsLastYearTab"/>
+          <include name="checkBoxFilterCarrier"/>
+        </methods>
+      </class> <!-- modulesTab.TicketedRevenueMetricsCurrentYearVsLastYear -->
+    </classes>
+  </test> <!-- Test Revenue Metrics(failed) -->
+</suite> <!-- Failed suite [Suite] -->

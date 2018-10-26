@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="31" passed="29">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="422332" started-at="2018-10-25T08:16:01Z" finished-at="2018-10-25T08:23:03Z">
+    <groups>
+      <group name="checkBoxTypeFilters">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterClasses()[pri:172, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterDomInt()[pri:173, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterNoTax()[pri:179, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedMonth()[pri:177, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedYear()[pri:176, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterClasses()[pri:157, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterDomInt()[pri:158, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterNoTax()[pri:164, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedMonth()[pri:162, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedYear()[pri:161, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- checkBoxTypeFilters -->
+      <group name="iATANo">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterIATANo()[pri:168, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterIATANo()[pri:153, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- iATANo -->
+      <group name="platedYear">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedYear()[pri:176, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedYear()[pri:161, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- platedYear -->
+      <group name="checkBoxAgentGroupsTypeFilters">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterAgentGroups()[pri:167, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterAgentGroups()[pri:152, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- checkBoxAgentGroupsTypeFilters -->
+      <group name="pBNR">
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterPBNR()[pri:174, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterPBNR" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterPBNR()[pri:159, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterPBNR" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- pBNR -->
+      <group name="year">
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterYear()[pri:169, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterYear()[pri:154, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- year -->
+      <group name="platedCarrier">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedCarrier()[pri:175, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedCarrier()[pri:160, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- platedCarrier -->
+      <group name="classes">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterClasses()[pri:172, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterClasses()[pri:157, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- classes -->
+      <group name="noTax">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterNoTax()[pri:179, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterNoTax()[pri:164, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- noTax -->
+      <group name="faresDashboardTab">
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterAgentGroups()[pri:152, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterClasses()[pri:157, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterDomInt()[pri:158, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterIATANo()[pri:153, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterMarketedCarrier()[pri:156, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterNoTax()[pri:164, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedCarrier()[pri:160, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedMonth()[pri:162, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedYear()[pri:161, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.clickClearFilters()[pri:166, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="clickClearFilters" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterLimit()[pri:163, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterLimit" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterMonth()[pri:155, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterPBNR()[pri:159, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterPBNR" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterYear()[pri:154, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- faresDashboardTab -->
+      <group name="selectTypeFilters">
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterLimit()[pri:178, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterLimit" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterMonth()[pri:170, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterPBNR()[pri:174, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterPBNR" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterYear()[pri:169, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterLimit()[pri:163, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterLimit" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterMonth()[pri:155, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterPBNR()[pri:159, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterPBNR" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterYear()[pri:154, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- selectTypeFilters -->
+      <group name="cumulativeFaresDashboardTab">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterAgentGroups()[pri:167, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterClasses()[pri:172, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterDomInt()[pri:173, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterIATANo()[pri:168, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterMarketedCarrier()[pri:171, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterNoTax()[pri:179, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedCarrier()[pri:175, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedMonth()[pri:177, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedYear()[pri:176, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.clickClearFilters()[pri:181, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="clickClearFilters" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterLimit()[pri:178, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterLimit" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterMonth()[pri:170, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterPBNR()[pri:174, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterPBNR" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterYear()[pri:169, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+      </group> <!-- cumulativeFaresDashboardTab -->
+      <group name="agentGroups">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterAgentGroups()[pri:167, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterAgentGroups()[pri:152, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- agentGroups -->
+      <group name="marketedCarrier">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterMarketedCarrier()[pri:171, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterMarketedCarrier()[pri:156, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- marketedCarrier -->
+      <group name="clearFiltersButton">
+        <method signature="FaresDashboardCumulativeFaresDashboard.clickClearFilters()[pri:181, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="clickClearFilters" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.clickClearFilters()[pri:166, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="clickClearFilters" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- clearFiltersButton -->
+      <group name="month">
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterMonth()[pri:170, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterMonth()[pri:155, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- month -->
+      <group name="checkBoxIATANoTypeFilters">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterIATANo()[pri:168, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterMarketedCarrier()[pri:171, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedCarrier()[pri:175, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterIATANo()[pri:153, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterMarketedCarrier()[pri:156, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedCarrier()[pri:160, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- checkBoxIATANoTypeFilters -->
+      <group name="limit">
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterLimit()[pri:178, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterLimit" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterLimit()[pri:163, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterLimit" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- limit -->
+      <group name="platedMonth">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedMonth()[pri:177, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedMonth()[pri:162, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- platedMonth -->
+      <group name="faresDashboard">
+        <method signature="FaresDashboard.clickFaresDashboardLink()[pri:151, instance:base.FaresDashboard@553f17c]" name="clickFaresDashboardLink" class="base.FaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterAgentGroups()[pri:167, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterClasses()[pri:172, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterDomInt()[pri:173, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterIATANo()[pri:168, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterMarketedCarrier()[pri:171, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterNoTax()[pri:179, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedCarrier()[pri:175, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedMonth()[pri:177, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterPlatedYear()[pri:176, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.clickClearFilters()[pri:181, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="clickClearFilters" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterLimit()[pri:178, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterLimit" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterMonth()[pri:170, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterMonth" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterPBNR()[pri:174, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterPBNR" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardCumulativeFaresDashboard.selectFilterYear()[pri:169, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterYear" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterAgentGroups()[pri:152, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterAgentGroups" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterClasses()[pri:157, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterClasses" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterDomInt()[pri:158, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterIATANo()[pri:153, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterIATANo" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterMarketedCarrier()[pri:156, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterMarketedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterNoTax()[pri:164, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterNoTax" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedCarrier()[pri:160, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedCarrier" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedMonth()[pri:162, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterPlatedYear()[pri:161, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.clickClearFilters()[pri:166, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="clickClearFilters" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterLimit()[pri:163, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterLimit" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterMonth()[pri:155, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterMonth" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterPBNR()[pri:159, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterPBNR" class="modulesTab.FaresDashboardFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.selectFilterYear()[pri:154, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterYear" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- faresDashboard -->
+      <group name="domInt">
+        <method signature="FaresDashboardCumulativeFaresDashboard.checkBoxFilterDomInt()[pri:173, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardCumulativeFaresDashboard"/>
+        <method signature="FaresDashboardFaresDashboard.checkBoxFilterDomInt()[pri:158, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterDomInt" class="modulesTab.FaresDashboardFaresDashboard"/>
+      </group> <!-- domInt -->
+    </groups>
+    <test name="Test Dashboards" duration-ms="422332" started-at="2018-10-25T08:16:01Z" finished-at="2018-10-25T08:23:03Z">
+      <class name="base.StartSeleniumTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:base.StartSeleniumTest@5f341870]" name="openBrowser" is-config="true" duration-ms="31613" started-at="2018-10-25T08:16:01Z" finished-at="2018-10-25T08:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- base.StartSeleniumTest -->
+      <class name="modulesTab.FaresDashboardCumulativeFaresDashboard">
+        <test-method status="PASS" signature="clickCumulativeFaresDashboardTab()[pri:0, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="clickCumulativeFaresDashboardTab" is-config="true" duration-ms="294" started-at="2018-10-25T08:20:14Z" finished-at="2018-10-25T08:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCumulativeFaresDashboardTab -->
+        <test-method status="PASS" signature="checkBoxFilterAgentGroups()[pri:167, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterAgentGroups" duration-ms="6688" started-at="2018-10-25T08:20:15Z" finished-at="2018-10-25T08:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterAgentGroups -->
+        <test-method status="PASS" signature="checkBoxFilterIATANo()[pri:168, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterIATANo" duration-ms="11069" started-at="2018-10-25T08:20:21Z" finished-at="2018-10-25T08:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterIATANo -->
+        <test-method status="PASS" signature="selectFilterYear()[pri:169, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterYear" duration-ms="2353" started-at="2018-10-25T08:20:32Z" finished-at="2018-10-25T08:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterYear -->
+        <test-method status="PASS" signature="selectFilterMonth()[pri:170, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterMonth" duration-ms="1444" started-at="2018-10-25T08:20:35Z" finished-at="2018-10-25T08:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterMonth -->
+        <test-method status="PASS" signature="checkBoxFilterMarketedCarrier()[pri:171, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterMarketedCarrier" duration-ms="31164" started-at="2018-10-25T08:20:36Z" finished-at="2018-10-25T08:21:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterMarketedCarrier -->
+        <test-method status="PASS" signature="checkBoxFilterClasses()[pri:172, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterClasses" duration-ms="38140" started-at="2018-10-25T08:21:07Z" finished-at="2018-10-25T08:21:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterClasses -->
+        <test-method status="PASS" signature="checkBoxFilterDomInt()[pri:173, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterDomInt" duration-ms="10764" started-at="2018-10-25T08:21:46Z" finished-at="2018-10-25T08:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterDomInt -->
+        <test-method status="PASS" signature="selectFilterPBNR()[pri:174, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterPBNR" duration-ms="847" started-at="2018-10-25T08:21:56Z" finished-at="2018-10-25T08:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterPBNR -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedCarrier()[pri:175, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedCarrier" duration-ms="8271" started-at="2018-10-25T08:21:57Z" finished-at="2018-10-25T08:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedCarrier -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedYear()[pri:176, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedYear" duration-ms="12028" started-at="2018-10-25T08:22:05Z" finished-at="2018-10-25T08:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedYear -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedMonth()[pri:177, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterPlatedMonth" duration-ms="25400" started-at="2018-10-25T08:22:17Z" finished-at="2018-10-25T08:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedMonth -->
+        <test-method status="PASS" signature="selectFilterLimit()[pri:178, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="selectFilterLimit" duration-ms="2626" started-at="2018-10-25T08:22:43Z" finished-at="2018-10-25T08:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterLimit -->
+        <test-method status="PASS" signature="checkBoxFilterNoTax()[pri:179, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="checkBoxFilterNoTax" duration-ms="13135" started-at="2018-10-25T08:22:45Z" finished-at="2018-10-25T08:22:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterNoTax -->
+        <test-method status="PASS" signature="clickClearFilters()[pri:181, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="clickClearFilters" duration-ms="4389" started-at="2018-10-25T08:22:59Z" finished-at="2018-10-25T08:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickClearFilters -->
+        <test-method status="PASS" signature="endOfTestingCumulativeFaresDashboardTab()[pri:0, instance:modulesTab.FaresDashboardCumulativeFaresDashboard@271053e1]" name="endOfTestingCumulativeFaresDashboardTab" is-config="true" duration-ms="1" started-at="2018-10-25T08:23:03Z" finished-at="2018-10-25T08:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endOfTestingCumulativeFaresDashboardTab -->
+      </class> <!-- modulesTab.FaresDashboardCumulativeFaresDashboard -->
+      <class name="base.FaresDashboard">
+        <test-method status="PASS" signature="clickFaresDashboardLink()[pri:151, instance:base.FaresDashboard@553f17c]" name="clickFaresDashboardLink" duration-ms="11634" started-at="2018-10-25T08:16:32Z" finished-at="2018-10-25T08:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFaresDashboardLink -->
+      </class> <!-- base.FaresDashboard -->
+      <class name="modulesTab.FaresDashboardFaresDashboard">
+        <test-method status="PASS" signature="clickFaresDashboardTab()[pri:0, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="clickFaresDashboardTab" is-config="true" duration-ms="260" started-at="2018-10-25T08:16:44Z" finished-at="2018-10-25T08:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFaresDashboardTab -->
+        <test-method status="PASS" signature="checkBoxFilterAgentGroups()[pri:152, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterAgentGroups" duration-ms="6745" started-at="2018-10-25T08:16:44Z" finished-at="2018-10-25T08:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterAgentGroups -->
+        <test-method status="PASS" signature="checkBoxFilterIATANo()[pri:153, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterIATANo" duration-ms="11612" started-at="2018-10-25T08:16:51Z" finished-at="2018-10-25T08:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterIATANo -->
+        <test-method status="PASS" signature="selectFilterYear()[pri:154, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterYear" duration-ms="2541" started-at="2018-10-25T08:17:03Z" finished-at="2018-10-25T08:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterYear -->
+        <test-method status="PASS" signature="selectFilterMonth()[pri:155, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterMonth" duration-ms="2039" started-at="2018-10-25T08:17:05Z" finished-at="2018-10-25T08:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterMonth -->
+        <test-method status="PASS" signature="checkBoxFilterMarketedCarrier()[pri:156, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterMarketedCarrier" duration-ms="38372" started-at="2018-10-25T08:17:07Z" finished-at="2018-10-25T08:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterMarketedCarrier -->
+        <test-method status="PASS" signature="checkBoxFilterClasses()[pri:157, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterClasses" duration-ms="49375" started-at="2018-10-25T08:17:46Z" finished-at="2018-10-25T08:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterClasses -->
+        <test-method status="PASS" signature="checkBoxFilterDomInt()[pri:158, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterDomInt" duration-ms="14365" started-at="2018-10-25T08:18:35Z" finished-at="2018-10-25T08:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterDomInt -->
+        <test-method status="PASS" signature="selectFilterPBNR()[pri:159, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterPBNR" duration-ms="3103" started-at="2018-10-25T08:18:49Z" finished-at="2018-10-25T08:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterPBNR -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedCarrier()[pri:160, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedCarrier" duration-ms="9223" started-at="2018-10-25T08:18:52Z" finished-at="2018-10-25T08:19:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedCarrier -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedYear()[pri:161, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedYear" duration-ms="13012" started-at="2018-10-25T08:19:02Z" finished-at="2018-10-25T08:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedYear -->
+        <test-method status="PASS" signature="checkBoxFilterPlatedMonth()[pri:162, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterPlatedMonth" duration-ms="35356" started-at="2018-10-25T08:19:15Z" finished-at="2018-10-25T08:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterPlatedMonth -->
+        <test-method status="PASS" signature="selectFilterLimit()[pri:163, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="selectFilterLimit" duration-ms="1853" started-at="2018-10-25T08:19:50Z" finished-at="2018-10-25T08:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFilterLimit -->
+        <test-method status="PASS" signature="checkBoxFilterNoTax()[pri:164, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="checkBoxFilterNoTax" duration-ms="16120" started-at="2018-10-25T08:19:52Z" finished-at="2018-10-25T08:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxFilterNoTax -->
+        <test-method status="PASS" signature="clickClearFilters()[pri:166, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="clickClearFilters" duration-ms="6371" started-at="2018-10-25T08:20:08Z" finished-at="2018-10-25T08:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickClearFilters -->
+        <test-method status="PASS" signature="endOfTestingFaresDashboardTab()[pri:0, instance:modulesTab.FaresDashboardFaresDashboard@4f7d0008]" name="endOfTestingFaresDashboardTab" is-config="true" duration-ms="1" started-at="2018-10-25T08:20:14Z" finished-at="2018-10-25T08:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endOfTestingFaresDashboardTab -->
+      </class> <!-- modulesTab.FaresDashboardFaresDashboard -->
+    </test> <!-- Test Dashboards -->
+  </suite> <!-- Suite -->
+</testng-results>

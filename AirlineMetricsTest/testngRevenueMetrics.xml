@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="false">
+  <test thread-count="5" name="Test Revenue Metrics">
+    	<groups>
+  		<run>
+ 			<exclude name="setFiltersButtonCheckBoxes"/>
+  			<exclude name="origin"/>
+  			<exclude name="destination"/>
+  		</run>
+  	</groups>
+  
+    <classes>
+      <class name="base.StartSeleniumTest"/>
+      <class name = "base.TicketedRevenueReport"/>
+      <class name = "modulesTab.TicketedRevenueMetricsCurrentYearVsLastYear">   
+      			<methods>
+				<include name = "clickCurrentYearVsLastYearTab"/>
+				<include name = "checkBoxFilterCarrier"/>
+				
+			</methods>
+	 </class> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
